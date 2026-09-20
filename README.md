@@ -179,13 +179,27 @@ python analysis.py
 ## 11. 시각화 목록
 
 
-| 번호 | 파일명 | 설명 |
-|------|--------|------|
-| 1 | 01_stock_price.png | 2023~2025년 삼성전자 주가 추이 |
-| 2 | 02_moving_average.png | 삼성전자 주가와 20일 이동평균 비교 |
-| 3 | 03_daily_return.png | 삼성전자 일별 수익률 변화 |
-| 4 | 04_monthly_return.png | 삼성전자 월별 수익률 비교 |
-| 5 | 05_volatility.png | 삼성전자 20일 이동 변동성 변화 |
+### 6. 시각화 결과
+
+분석 과정에서 다음과 같은 시각화를 생성하였다.
+
+1. `01_stock_price.png`
+   - 2023~2025년 삼성전자 주가 추이
+
+2. `02_moving_average.png`
+   - 삼성전자 주가와 20일 이동평균선
+
+3. `03_daily_return.png`
+   - 삼성전자 일별 수익률 추이
+
+4. `04_monthly_return.png`
+   - 삼성전자 월별 수익률 비교
+
+5. `05_volatility.png`
+   - 삼성전자 20일 이동 변동성 추이
+
+6. `06_event_analysis.png`
+   - 2024년 8월 5일 전후 삼성전자 주가 변동
 
 
 ---
