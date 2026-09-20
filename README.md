@@ -146,7 +146,7 @@ python analysis.py
 ## 8. 사용 라이브러리 및 버전
 
 ```text
-- Python 3.x
+- Python 3.14.7
 - pandas
 - matplotlib
 - yfinance
