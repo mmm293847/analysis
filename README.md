@@ -147,9 +147,9 @@ python analysis.py
 
 ```text
 - Python 3.14.7
-- pandas
-- matplotlib
-- yfinance
+- pandas 3.0.6
+- matplotlib 3.11.2
+- yfinance 1.7.0
 ```
 
 세부 라이브러리 버전은 `requirements.txt`에 기록된 버전을 따른다.
